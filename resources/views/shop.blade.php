@@ -1020,6 +1020,12 @@
       </div>
     </div>
     <!-- End container -->
+
+
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-d62ef6a5-59da-45e3-8669-94e64d630ad8" data-elfsight-app-lazy></div>
+
+
     <!-- Footer logo !-->
    <div class="footer_logo text-center"> <img  src="https://res.cloudinary.com/ninejajam/image/upload/v1624923380/White_Official_9jajam_Logo_New-02-01_a9nthj.png"  alt="logo">
       <p> 2023 ALL RIGHT RESERVED. DESIGNED BY <a target="_blank" href="http://creative-wp.com"> CUTEBLACKY LLC</a></p>

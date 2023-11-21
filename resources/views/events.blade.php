@@ -836,6 +836,14 @@
     </div>
   </footer>
   <!-- End footer -->
+
+
+
+  <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-d62ef6a5-59da-45e3-8669-94e64d630ad8" data-elfsight-app-lazy></div>
+
+
+
   <!--  scroll to top of the page-->
   <a href="#" id="scroll_up" ><i class="fa fa-angle-up"></i></a> </div>
 <!-- End wrapper -->

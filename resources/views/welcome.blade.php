@@ -51,6 +51,19 @@
       <script src="/javascripts/libs/html5shiv.js"></script>
       <script src="/javascripts/libs/respond.min.js"></script>
     <![endif]-->
+
+
+
+    <script type='text/javascript'>
+  window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'fda6914825fe6f8132ca8e43924edfef6990f3e9', { region: 'eu' });
+</script>
+
+
 </head>
 <body>
 <!-- Loader
@@ -1364,6 +1377,20 @@ We are 5 minutes drive from Sangster International Airport and <br>2 minutes fro
     <!-- End latest News-->
   </div>
   <!-- End content !-->
+
+  <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-d62ef6a5-59da-45e3-8669-94e64d630ad8" data-elfsight-app-lazy></div>
+
+
+
+
+<script>
+// We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/fk9x1wal'
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/fk9x1wal';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(document.readyState==='complete'){l();}else if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
+
+
+
   <!-- Footer
     ============================================= -->
   <footer id="footer" class="padding-50 dark">

@@ -770,7 +770,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -809,7 +809,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -848,7 +848,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -887,7 +887,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -926,7 +926,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -965,7 +965,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1004,7 +1004,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1043,7 +1043,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1082,7 +1082,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1121,7 +1121,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1160,7 +1160,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1199,7 +1199,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1238,7 +1238,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1277,7 +1277,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1316,7 +1316,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1355,7 +1355,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1394,7 +1394,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1433,7 +1433,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1473,7 +1473,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1514,7 +1514,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1555,7 +1555,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1597,7 +1597,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1639,7 +1639,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1681,7 +1681,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1721,7 +1721,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1762,7 +1762,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1803,7 +1803,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1843,7 +1843,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1884,7 +1884,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1925,7 +1925,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1966,7 +1966,7 @@
                                         <!-- Buttons -->
                                         <div class="button"> <a class="btn btn-gold" href="#"><i
                                                     class="fa fa-shopping-cart"></i></a> <a class="btn btn-gold"
-                                                href="menu_single.html"><i class="fa fa-link"></i></a> </div>
+                                                href="#"><i class="fa fa-link"></i></a> </div>
                                         <!-- End Buttons -->
                                         <a class="close-overlay hidden">x</a>
                                     </div>
@@ -1990,6 +1990,8 @@
         <!-- End Menu Grid -->
     </div>
     <!-- end of #content -->
+
+
     <!-- Footer
     ============================================= -->
     <footer id="footer" class="padding-50 dark">
@@ -2118,6 +2120,12 @@
         <!-- End Footer logo !-->
     </footer>
     <!-- End footer -->
+
+
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-d62ef6a5-59da-45e3-8669-94e64d630ad8" data-elfsight-app-lazy></div>
+
+
     <!--  scroll to top of the page-->
     <a href="#" id="scroll_up"><i class="fa fa-angle-up"></i></a> </div>
     <!-- End wrapper -->

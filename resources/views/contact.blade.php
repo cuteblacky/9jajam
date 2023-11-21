@@ -645,16 +645,16 @@
               <div>Shop</div>
               </a>
               <ul class="menu-pos-invert">
-                <li><a href="shop_carts.html">
+                <li><a href="#">
                   <div>Carts</div>
                   </a></li>
-                <li><a href="shop_wishlist.html">
+                <li><a href="#">
                   <div>Wishlist</div>
                   </a></li>
-                <li><a href="shop_checkout.html">
+                <li><a href="#">
                   <div>Checkout</div>
                   </a></li>
-                <li><a href="shop_myaccount.html">
+                <li><a href="#">
                   <div>My Account</div>
                   </a></li>
               </ul>
@@ -957,6 +957,12 @@
     <!-- End Footer logo !-->
   </footer>
   <!-- End footer -->
+
+
+  <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-d62ef6a5-59da-45e3-8669-94e64d630ad8" data-elfsight-app-lazy></div>
+
+
   <!--  scroll to top of the page-->
   <a href="#" id="scroll_up" ><i class="fa fa-angle-up"></i></a> </div>
 <!-- End wrapper -->
