@@ -1985,7 +1985,7 @@
                 <!-- End Menu Content -->
             </div>
             <!-- #menu end -->
-            <a href="#" class="btn btn-gold mt30">View more</a>
+            <a href="" class="btn btn-gold mt30">View more</a>
         </div>
         <!-- End Menu Grid -->
     </div>

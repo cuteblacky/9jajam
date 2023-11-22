@@ -734,15 +734,12 @@
             <p> Visit the first Nigerian Restaurant in Jamaica, Serving dishes from the diverse
  culture of Nigeria.
 
-<br>
-<br>
- 9jajam African Restaurant brings you a real
- taste of Africa so let us boost your taste buds and spark your day. 
+ 9jajam African Restaurant brings you authentic
+ African cuisine, let's boost your taste buds and spark your day!
 
 <br>
         <br>
-            We aim at promoting our African culture through new dishes,
-             and integrate between different cultures.
+            We aim at promoting African culture through food.
 
             <br>
             <br>
@@ -816,7 +813,7 @@
               <figcaption class="text-center">
                 <div class="fig_container">
                   <h3>JOLLOF RICE</h3>
-                  <p>Sweet peppers, tomatoe paste, spices</p>
+                  <p>Sweet peppers, tomatoes, spices</p>
                 </div>
               </figcaption>
             </figure>
@@ -1295,7 +1292,7 @@
 
                   <br>
                 We bring you the distinct flavour of tasty Nigerian and African cuisine.
-                <br>
+                
                 We offer variety of authentic traditional dishes to rock your taste buds.</p>
 
              
@@ -1347,11 +1344,11 @@ We are 5 minutes drive from Sangster International Airport and <br>2 minutes fro
               <figure> <img class="img-responsive" src="https://res.cloudinary.com/ninejajam/image/upload/c_crop,h_738,w_738/v1673860330/African_dance_btk62i.jpg" alt="RELAXING AMBIENCE" />
                 <figcaption class="text-center">
                   <div class="fig_container"> <i class="fa fa-plus"></i>
-                    <h3><a href="#">ESTHER HOLIDAY</a></h3>
+                    <h3><a href="#">Christmas Party</a></h3>
                     <p>Event</p>
                     <div class="fig_content"> <a href="#">Togetherness in one spirit</a> </div>
                   </div>
-                  <span class="btn btn-gold primary-bg white">15 MAY 2023</span> </figcaption>
+                  <span class="btn btn-gold primary-bg white">23rd December 2023</span> </figcaption>
               </figure>
             </div>
             <!-- End News Item -->
@@ -1400,7 +1397,7 @@ We are 5 minutes drive from Sangster International Airport and <br>2 minutes fro
         <div class="col-md-3 col-sm-6 col-xs-12 our_location">
           <h3>Our Location</h3>
           <p>9jajam Location:</p>
-          <span>Shop #6 Bhavela Plaza, Ironshore, Montego Bay, St. James - Jamaica</span>
+          <span>Unit #6 Bhavela Plaza, Ironshore, Montego Bay, St. James - Jamaica</span>
           <p class="mt30">Call for Reservations:<span > +1 (876) 462-4255</span></p>
           <p>E-mail: <span>info@9jajam.com</span> </p>
           <ul class="social mt30">
@@ -1489,9 +1486,25 @@ We are 5 minutes drive from Sangster International Airport and <br>2 minutes fro
         <!-- <div class="col-md-3 col-sm-6 col-xs-12 flickr">
           <h3>Instagram Posts</h3>
           <ul id="flickrbox" class="thumbs">
+
+          
           </ul>
         </div> -->
+
+        <!-- <div class="col-md-3 col-sm-6 col-xs-12 flickr">
+          <h3>Instagram Posts</h3>
+          <ul id="" class="thumbs" >
+
+          <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-d38776c9-d257-4f6b-8665-cc428db58b75" data-elfsight-app-lazy></div>
+          
+          </ul>
+        </div> -->
+
+
         <!-- End flickr -->
+
+        
       </div>
     </div>
     <!-- End container -->
