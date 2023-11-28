@@ -68,15 +68,15 @@
 <body>
 <!-- Loader
     ============================================= -->
-<div id="loader">
+<!-- <div id="loader">
   <div class="loader-item"> <img src="https://res.cloudinary.com/ninejajam/image/upload/v1624923380/White_Official_9jajam_Logo_New-02-01_a9nthj.png" width="200px" alt="">
     <div class="spinner">
       <div class="bounce1"></div>
-      <!-- <div class="bounce2"></div>
-      <div class="     e3"></div> -->
+      <div class="bounce2"></div>
+      <div class="     e3"></div>
     </div>
   </div>
-</div>
+</div> -->
 <!-- End Loader -->
 <!-- Document Wrapper
     ============================================= -->
@@ -115,7 +115,12 @@
         <div id="main-menu-trigger"><i class="fa fa-bars"></i></div>
         <!-- Logo
                     ============================================= -->
-        <div id="logo"> <a href="/" class="light-logo"><img src="https://res.cloudinary.com/ninejajam/image/upload/v1624923380/White_Official_9jajam_Logo_New-02-01_a9nthj.png" alt="Logo"></a> <a href="index01.html" class="dark-logo"><img src="https://res.cloudinary.com/ninejajam/image/upload/v1624469296/Black_Official_9jajam_Logo_New_1-02_znrvh0.png" width="200px" alt="Logo"></a> </div>
+        <div id="logo"> <a href="/" class="light-logo">
+        <img src="https://res.cloudinary.com/ninejajam/image/upload/v1624923380/White_Official_9jajam_Logo_New-02-01_a9nthj.png" 
+          alt="Logo"></a> 
+        <a href="/" class="dark-logo">
+        <img src="https://res.cloudinary.com/ninejajam/image/upload/v1624469296/Black_Official_9jajam_Logo_New_1-02_znrvh0.png" 
+        width="200px" alt="Logo"></a> </div>
         <!--End #logo  -->
         <!-- Primary Navigation
                     ============================================= -->
@@ -356,7 +361,7 @@
                   <div>Single</div>
                   </a>
                   <ul>
-                    <li><a href="blog_single_image.html">
+                    <li><a href="#">
                       <div>Image</div>
                       </a></li>
                     <li><a href="blog_single_slider.html">
@@ -414,7 +419,7 @@
                     <div>About Us</div>
                     </a>
                     <ul>
-                      <li><a href="about.html">
+                      <li><a href="#">
                         <div>About</div>
                         </a></li>
                       <li><a href="services.html">
@@ -769,7 +774,7 @@
           <div class="container">
             <h1>OUR SPECIALTIES</h1>
             <p class="text-uppercase">Derived From A True African Culture</p>
-            <a href="about.html" class="btn btn-gold white">DISCOVER MORE</a> </div>
+            <a href="#" class="btn btn-gold white">DISCOVER MORE</a> </div>
         </div>
         <!-- End Bg transparent -->
       </div>
@@ -1287,7 +1292,7 @@
                 
                 <p class="italic mt10 paragraph-card">Looking for a place to relax with good ambience
                   and music. 
-                  <br>
+                  
                 Come visit us and experience Nigeria in Montego Bay Jamaica.
 
                   <br>
@@ -1331,9 +1336,9 @@ We are 5 minutes drive from Sangster International Airport and <br>2 minutes fro
               <figure> <img class="img-responsive" src="https://res.cloudinary.com/ninejajam/image/upload/c_crop,h_738/v1673860710/280361401_532807321902556_8807448518176302182_n_j7smue.jpg" alt="RELAXING AMBIENCE" />
                 <figcaption class="text-center">
                   <div class="fig_container"> <i class="fa fa-heart"></i>
-                    <h3><a href="blog_single_image.html">VALENTINE'S DAY</a></h3>
+                    <h3><a href="/events">VALENTINE'S DAY</a></h3>
                     <p>Event</p>
-                    <div class="fig_content"> <a href="blog_single_image.html">A special event for all our loved ones</a> </div>
+                    <div class="fig_content"> <a href="/events">A special event for all our loved ones</a> </div>
                   </div>
                   <span class="btn btn-gold primary-bg white">14 FEBUARY 2023</span> </figcaption>
               </figure>
@@ -1357,12 +1362,12 @@ We are 5 minutes drive from Sangster International Airport and <br>2 minutes fro
               <figure> <img class="img-responsive" src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_738,w_738/v1673860334/Kotejuga_hmyynw.jpg" alt="RELAXING AMBIENCE" />
                 <figcaption class="text-center">
                   <div class="fig_container"> <i class="fa fa-volume-up"></i>
-                    <h3><a href="blog_single_soundclouds.html">African Nights</a></h3>
+                    <h3><a href="/events">African Nights</a></h3>
                     <p>Event</p>
-                    <div class="fig_content"> <a href="blog_single_soundclouds.html">We host a weekly
+                    <div class="fig_content"> <a href="/events">We host a weekly
                       event promoting the true African culture, music and art.</a> </div>
                   </div>
-                  <span class="btn btn-gold primary-bg white">EVERY SATURDAY (1pm - 9pm)</span> </figcaption>
+                  <span class="btn btn-gold primary-bg white">EVERY SATURDAY (6pm - 9pm)</span> </figcaption>
               </figure>
             </div>
             <!-- End News Item -->
@@ -1414,23 +1419,28 @@ We are 5 minutes drive from Sangster International Airport and <br>2 minutes fro
         <div class="col-md-3 col-sm-6 col-xs-12 latest_post ">
           <h3>Best Sellers</h3>
           <div class="media">
-            <div class="media-left"> <a href="blog_single_image.html" > <img class="media-object" rel="prettyPhoto" src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_58/v1673836743/JOLLOF_zsedbt.png" alt="post thumb"> </a> </div>
+            <div class="media-left"> <a href="/menu" > 
+              <img 
+              class="media-object" 
+              rel="prettyPhoto" 
+              src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_58/v1673836743/JOLLOF_zsedbt.png" 
+              alt="post thumb"> </a> </div>
             <div class="media-body">
-              <h4 class="media-heading"><a href="blog_single_image.html">Jollof Rice</a></h4>
+              <h4 class="media-heading"><a href="/menu">Jollof Rice</a></h4>
             Rice cooked in tomatoe sauce</div>
           </div>
           <!-- End media -->
           <div class="media">
-            <div class="media-left"> <a href="blog_single_image.html" > <img class="media-object" rel="prettyPhoto" src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_58/v1631681720/Egusi_pix_chovru.png" alt="post thumb"> </a> </div>
+            <div class="media-left"> <a href="/menu" > <img class="media-object" rel="prettyPhoto" src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_58/v1631681720/Egusi_pix_chovru.png" alt="post thumb"> </a> </div>
             <div class="media-body">
-              <h4 class="media-heading"><a href="blog_single_image.html">Egusi & Fufu</a></h4>
+              <h4 class="media-heading"><a href="/menu">Egusi & Fufu</a></h4>
             African melon seed | crayfish | palm oil</div>
           </div>
           <!-- End media -->
           <div class="media">
-            <div class="media-left"> <a href="blog_single_image.html" > <img class="media-object" rel="prettyPhoto" src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_58/v1631681965/Yam_nzfbyx.jpg" alt="post thumb"> </a> </div>
+            <div class="media-left"> <a href="/menu" > <img class="media-object" rel="prettyPhoto" src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_58/v1631681965/Yam_nzfbyx.jpg" alt="post thumb"> </a> </div>
             <div class="media-body">
-              <h4 class="media-heading"><a href="blog_single_image.html">Yam Chips </a></h4>
+              <h4 class="media-heading"><a href="/menu">Yam Chips </a></h4>
               Fried yam | stew | kpako shito</div>
           </div>
           <!-- End media -->

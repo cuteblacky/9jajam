@@ -52,22 +52,36 @@
       <script src="javascripts/libs/html5shiv.js"></script>
       <script src="javascripts/libs/respond.min.js"></script>
     <![endif]-->
+
+
+
+    <script type='text/javascript'>
+  window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'fda6914825fe6f8132ca8e43924edfef6990f3e9', { region: 'eu' });
+</script>
+
+
+
 </head>
 
 <body>
     <!-- Loader
     ============================================= -->
-    <div id="loader">
+    <!-- <div id="loader">
         <div class="loader-item"> <img
                 src="https://res.cloudinary.com/ninejajam/image/upload/v1624923380/White_Official_9jajam_Logo_New-02-01_a9nthj.png"
                 width="200px" alt="">
             <div class="spinner">
                 <div class="bounce1"></div>
-                <!-- <div class="bounce2"></div>
-                <div class="bounce3"></div> -->
+                <div class="bounce2"></div>
+                <div class="bounce3"></div> 
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Document Wrapper
     ============================================= -->
     <div id="wrapper">
@@ -109,7 +123,7 @@
                     ============================================= -->
                     <div id="logo"> <a href="/" class="light-logo"><img
                                 src="https://res.cloudinary.com/ninejajam/image/upload/v1624923380/White_Official_9jajam_Logo_New-02-01_a9nthj.png"
-                                alt="Logo"></a> <a href="index01.html" class="dark-logo"><img
+                                alt="Logo"></a> <a href="/" class="dark-logo"><img
                                 src="https://res.cloudinary.com/ninejajam/image/upload/v1624469296/Black_Official_9jajam_Logo_New_1-02_znrvh0.png"
                                 width="200px" alt="Logo"></a> </div>
                     <!-- #logo end -->
@@ -353,7 +367,7 @@
                   <div>Single</div>
                   </a>
                   <ul>
-                    <li><a href="blog_single_image.html">
+                    <li><a href="#">
                       <div>Image</div>
                       </a></li>
                     <li><a href="blog_single_slider.html">
@@ -1985,7 +1999,7 @@
                 <!-- End Menu Content -->
             </div>
             <!-- #menu end -->
-            <a href="" class="btn btn-gold mt30">View more</a>
+            <a href="https://res.cloudinary.com/ninejajam/image/upload/v1700735370/9jajam_Menu_food_t21jig.pdf" class="btn btn-gold mt30">View more</a>
         </div>
         <!-- End Menu Grid -->
     </div>
@@ -2001,7 +2015,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-12 our_location">
                     <h3>Our Location</h3>
                     <p>9jajam Location:</p>
-                    <span>Shop #6 Bhavela Plaza, Ironshore, Montego Bay, St. James - Jamaica</span>
+                    <span>Unit #6 Bhavela Plaza, Ironshore, Montego Bay, St. James - Jamaica</span>
                     <p class="mt30">Call for Reservations:<span> +1 (876) 462-4255</span></p>
                     <p>E-mail: <span>info@9jajam.com</span> </p>
                     <ul class="social mt30">
@@ -2020,34 +2034,34 @@
                 <div class="col-md-3 col-sm-6 col-xs-12 latest_post ">
                     <h3>Best Sellers</h3>
                     <div class="media">
-                        <div class="media-left"> <a href="blog_single_image.html"> <img class="media-object"
+                        <div class="media-left"> <a href="#"> <img class="media-object"
                                     rel="prettyPhoto"
                                     src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_58/v1673836743/JOLLOF_zsedbt.png"
                                     alt="post thumb"> </a> </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="blog_single_image.html">Jollof Rice</a></h4>
+                            <h4 class="media-heading"><a href="#">Jollof Rice</a></h4>
                             Rice cooked in tomatoe sauce
                         </div>
                     </div>
                     <!-- End media -->
                     <div class="media">
-                        <div class="media-left"> <a href="blog_single_image.html"> <img class="media-object"
+                        <div class="media-left"> <a href="#"> <img class="media-object"
                                     rel="prettyPhoto"
                                     src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_58/v1631681720/Egusi_pix_chovru.png"
                                     alt="post thumb"> </a> </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="blog_single_image.html">Egusi & Fufu</a></h4>
+                            <h4 class="media-heading"><a href="#">Egusi & Fufu</a></h4>
                             African melon seed | crayfish | palm oil
                         </div>
                     </div>
                     <!-- End media -->
                     <div class="media">
-                        <div class="media-left"> <a href="blog_single_image.html"> <img class="media-object"
+                        <div class="media-left"> <a href="#"> <img class="media-object"
                                     rel="prettyPhoto"
                                     src="https://res.cloudinary.com/ninejajam/image/upload/c_thumb,h_58/v1631681965/Yam_nzfbyx.jpg"
                                     alt="post thumb"> </a> </div>
                         <div class="media-body">
-                            <h4 class="media-heading"><a href="blog_single_image.html">Yam Chips </a></h4>
+                            <h4 class="media-heading"><a href="#">Yam Chips </a></h4>
                             Fried yam | stew | kpako shito
                         </div>
                     </div>
@@ -2104,6 +2118,7 @@
                 <!-- <div class="col-md-3 col-sm-6 col-xs-12 flickr">
           <h3>Instagram Posts</h3>
           <ul id="flickrbox" class="thumbs">
+
           </ul>
         </div> -->
                 <!-- End flickr -->
